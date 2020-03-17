@@ -1,5 +1,7 @@
 # music
-
+这算是毕业两年
+温习Vue
+之前一直写小程序 很久没用Vue
 ## Project setup
 ```
 npm install
